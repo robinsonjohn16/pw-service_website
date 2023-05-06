@@ -47,6 +47,7 @@ ul {
 a {
   text-decoration: none;
   font-weight: 500;
+  color: black;
 }
 .nav-button {
   display: flex;
